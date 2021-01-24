@@ -1,14 +1,16 @@
-
+body{
+    text-align: center;
+}
 
 header{
     background-color: 	#dcdcdc;
     padding: 16px 0 3px 0;
-    text-align: center;
+   
 }
 
 #img-div{
     text-align: center;
-    padding: 15px;
+    padding: 15%;
 }
 
 #tribute-info{
@@ -18,7 +20,26 @@ header{
 .infoTitle{
     padding: 17px;
     text-align: center;
+    
 }
 .info{
     padding: 0 30% 0;
+    text-align: justify;
+    display: block;
+    line-height: 3em;
+    height: auto;
+    margin: auto;
+    padding: auto;
+   
+}
+
+p{
+    line-height: 1.5em;
+}
+
+.infoP{
+    padding: 0 30% 0;
+    text-align: left;
+    padding-bottom: 1.5em;
+    
 }
