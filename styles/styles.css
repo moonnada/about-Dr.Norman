@@ -10,10 +10,16 @@ header{
 }
 
 #img-div{
-    
+    text-align: center;
     padding: 3em;
     padding-bottom: 0;
     
+}
+#img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
 }
 
 #tribute-info{
@@ -21,7 +27,7 @@ header{
     background-color: 	#dcdcdc;
 }
 .infoTitle{
-    padding: 17px;
+    padding: 3%;
    
     
 }
