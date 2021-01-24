@@ -1,15 +1,24 @@
+
+
 header{
-    text-align: center;
     background-color: 	#dcdcdc;
     padding: 16px 0 3px 0;
+    text-align: center;
 }
 
-.image{
+#img-div{
     text-align: center;
     padding: 15px;
 }
 
-.timeLine{
+#tribute-info{
+  
+    background-color: 	#dcdcdc;
+}
+.infoTitle{
+    padding: 17px;
     text-align: center;
-    padding: 15px;
+}
+.info{
+    padding: 0 30% 0;
 }
